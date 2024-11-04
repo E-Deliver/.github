@@ -18,6 +18,10 @@ Cette application a été réalisée en se basant sur les technologies suivantes
 - **Spring Security** (pour la sécurisation de l'accès à l'application en se basant sur les jetons (tokens) de JWT (JSON Web Token))
 - **Angular** (pour la gestion du côté client du projet)
 - **MySQL** (pour la gestion des bases de données relationnelles)
+- **JUnit5** et **Mockito** (pour la réalisation des tests unitaires dans le code backend)
+- **Selenium** et **TestNg** (pour la réalisation des tests automatisés)
+- **Docker** et **Docker Compose** (pour la conteneurisation de l'application)
+- **GitHub Actions** (pour la gestion de flux de déploiement dans les deux codes de frontend et backend)
 
 ## Fonctionnalités principales
 
